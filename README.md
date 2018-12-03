@@ -1,2 +1,2 @@
-# python-dev
-Projects on Python
+# Welcome
+This repository consists of projects on Python
